@@ -30,7 +30,7 @@ RIG provides the essential engine primitives you need - routing, commands, callb
 
 | Repository | Description |
 | :--- | :--- |
-| [`rig-cfx`](https://github.com/rig-fivem/rig) | The core engine layer built for FiveM. |
+| [`rig`](https://github.com/rig-fivem/rig) | The core engine layer built for FiveM. |
 
 ---
 
@@ -40,7 +40,7 @@ Optional, modular extensions designed to plug seamlessly into the RIG core. Use 
 
 | Repository | Description |
 | :--- | :--- |
-| ... | ... |
+| [`rig_loadscreen`](https://github.com/rig-fivem/rig_loadscreen) | Simple loadscreen built for RIG |
 
 ---
 
