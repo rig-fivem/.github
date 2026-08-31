@@ -24,13 +24,11 @@
 
 RIG provides the essential engine primitives you need - routing, commands, callbacks, user management, group hierarchies, extendable player objects and a full NUI kit. Game modes and features are built on top as decoupled, modular extensions (`rig_*`).
 
----
-
 ## Core Framework
 
-| Repository | Description |
-| :--- | :--- |
-| [`rig`](https://github.com/rig-fivem/rig) | The core engine layer built for FiveM. |
+| Repository | Status | Description |
+| :--- | :--- | :--- |
+| [`rig`](https://github.com/rig-fivem/rig) | `alpha` | The core engine layer built for FiveM. *(Required)* |
 
 ---
 
@@ -38,9 +36,12 @@ RIG provides the essential engine primitives you need - routing, commands, callb
 
 Optional, modular extensions designed to plug seamlessly into the RIG core. Use what you need, build what you want.
 
-| Repository | Description |
-| :--- | :--- |
-| [`rig_loadscreen`](https://github.com/rig-fivem/rig_loadscreen) | Simple loadscreen built for RIG |
+| Repository | Status | Description |
+| :--- | :--- | :--- |
+| [`rig_inventory`](https://github.com/rig-fivem/rig_inventory) | `alpha` | Grid based inventory system built for RIG. |
+| [`rig_spawns`](https://github.com/rig-fivem/rig_spawns) | `alpha` | World spawn system built for RIG. |
+| [`rig_avatars`](https://github.com/rig-fivem/rig_avatars) | `alpha` | Avatars system built for RIG. |
+| [`rig_loadscreen`](https://github.com/rig-fivem/rig_loadscreen) | `stable` | Simple loadscreen built for RIG. |
 
 ---
 
