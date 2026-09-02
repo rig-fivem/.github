@@ -38,10 +38,12 @@ Optional, modular extensions designed to plug seamlessly into the RIG core. Use 
 
 | Repository | Status | Description |
 | :--- | :--- | :--- |
-| [`rig_inventory`](https://github.com/rig-fivem/rig_inventory) | `alpha` | Grid based inventory system built for RIG. |
-| [`rig_spawns`](https://github.com/rig-fivem/rig_spawns) | `alpha` | World spawn system built for RIG. |
-| [`rig_avatars`](https://github.com/rig-fivem/rig_avatars) | `alpha` | Avatars system built for RIG. |
-| [`rig_loadscreen`](https://github.com/rig-fivem/rig_loadscreen) | `stable` | Simple loadscreen built for RIG. |
+| [`rig_avatars`](https://github.com/rig-fivem/rig_avatars) | `alpha` | Player avatars system. |
+| [`rig_hud`](https://github.com/rig-fivem/rig_hud) | `alpha` | Status & Weapon HUD resource. |
+| [`rig_inventory`](https://github.com/rig-fivem/rig_inventory) | `alpha` | Grid based inventory system. |
+| [`rig_loadscreen`](https://github.com/rig-fivem/rig_loadscreen) | `stable` | Simple loadscreen, nothing fancy. |
+| [`rig_spawns`](https://github.com/rig-fivem/rig_spawns) | `alpha` | World and personal spawn system. |
+| [`rig_weather`](https://github.com/rig-fivem/rig_weather) | `alpha` | Persistent seasonal weather system. |
 
 ---
 
