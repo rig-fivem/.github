@@ -40,9 +40,11 @@ Optional, modular extensions designed to plug seamlessly into the RIG core. Use 
 | :--- | :--- | :--- |
 | [`rig_avatars`](https://github.com/rig-fivem/rig_avatars) | `alpha` | Player avatars system. |
 | [`rig_hud`](https://github.com/rig-fivem/rig_hud) | `alpha` | Status & Weapon HUD resource. |
+| [`rig_interactions`](https://github.com/rig-fivem/rig_interactions) | `alpha` | Interaction systems; Text UI, DUI. |
 | [`rig_inventory`](https://github.com/rig-fivem/rig_inventory) | `alpha` | Grid based inventory system. |
 | [`rig_loadscreen`](https://github.com/rig-fivem/rig_loadscreen) | `stable` | Simple loadscreen, nothing fancy. |
 | [`rig_spawns`](https://github.com/rig-fivem/rig_spawns) | `alpha` | World and personal spawn system. |
+| [`rig_statuses`](https://github.com/rig-fivem/rig_spawns) | `alpha` | Status, injuries and effects system. |
 | [`rig_weather`](https://github.com/rig-fivem/rig_weather) | `alpha` | Persistent seasonal weather system. |
 
 ---
