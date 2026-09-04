@@ -39,13 +39,16 @@ Optional, modular extensions designed to plug seamlessly into the RIG core. Use 
 | Repository | Status | Description |
 | :--- | :--- | :--- |
 | [`rig_avatars`](https://github.com/rig-fivem/rig_avatars) | `alpha` | Player avatars system. |
+| [`rig_crafting`](https://github.com/rig-fivem/rig_crafting) | `coming asap` | Item crafting system. |
 | [`rig_hud`](https://github.com/rig-fivem/rig_hud) | `alpha` | Status & Weapon HUD resource. |
 | [`rig_interactions`](https://github.com/rig-fivem/rig_interactions) | `alpha` | Interaction systems; Text UI, DUI. |
 | [`rig_inventory`](https://github.com/rig-fivem/rig_inventory) | `alpha` | Grid based inventory system. |
 | [`rig_loadscreen`](https://github.com/rig-fivem/rig_loadscreen) | `stable` | Simple loadscreen, nothing fancy. |
+| [`rig_gathering`](https://github.com/rig-fivem/rig_gathering) | `coming asap` | Gathering & loot searching system. |
+| [`rig_skills`](https://github.com/rig-fivem/rig_skills) | `coming asap` | Player skill system. |
 | [`rig_spawns`](https://github.com/rig-fivem/rig_spawns) | `alpha` | World and personal spawn system. |
-| [`rig_statuses`](https://github.com/rig-fivem/rig_spawns) | `alpha` | Status, injuries and effects system. |
-| [`rig_weather`](https://github.com/rig-fivem/rig_weather) | `alpha` | Persistent seasonal weather system. |
+| [`rig_statuses`](https://github.com/rig-fivem/rig_spawns) | `coming asap` | Status, injuries and effects system. |
+| [`rig_weather`](https://github.com/rig-fivem/rig_weather) | `coming asap` | Persistent seasonal weather system. |
 
 ---
 
